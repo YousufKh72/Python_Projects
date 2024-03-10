@@ -12,16 +12,14 @@ The HighLow game is a fun, interactive Python-based guessing game where players 
 
 ## File Descriptions
 
-- **`main.py`**: The main script where the game's logic and loops are implemented.
-- **`art.py`**: Contains ASCII art assets, including the game logo and the "versus" symbol, used to enhance the game's visual appeal.
-- **`game_data.py`**: A data file storing a list of dictionaries. Each dictionary represents a personality, including their name, a brief description, country, and the number of followers they have.
+- [**`main.py`**](https://github.com/YousufKh72/Python_Projects/blob/main/Higher%20Lower%20Game/main.py): The main script where the game's logic and loops are implemented.
+- [**`art.py`**](https://github.com/YousufKh72/Python_Projects/blob/main/Higher%20Lower%20Game/art.py): Contains ASCII art assets, including the game logo and the "versus" symbol, used to enhance the game's visual appeal.
+- [**`game_data.py`**](https://github.com/YousufKh72/Python_Projects/blob/main/Higher%20Lower%20Game/game_data.py): A data file storing a list of dictionaries. Each dictionary represents a personality, including their name, a brief description, country, and the number of followers they have.
 
 ## Setup and Play
 
 To play the game, you need to have Python installed on your machine. Simply run the `main.py` file in your terminal or command prompt:
 
-```bash
-python main.py
 Follow the on-screen prompts to make your guesses and see how high you can score!
 
 Development Environment
@@ -46,5 +44,6 @@ Who has more followers? Type 'A' or 'B':
 
 Dive into the HighLow game and challenge yourself to achieve a new high score!
 
-
+## Run it on Replit
+[Higher Lower Game](https://replit.com/@YousufKh/higher-lower-final#main.py)
 Feel free to customize and extend the game to include more personalities or additional features. Enjoy playing!
